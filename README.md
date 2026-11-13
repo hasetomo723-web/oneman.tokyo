@@ -1,5 +1,4 @@
-[hasetomo_one_man_live_tour_2026_revolution.html](https://github.com/user-attachments/files/34798322/hasetomo_one_man_live_tour_2026_revolution.html)
-# oneman.tokyo<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="ja" class="dark">
 <head>
   <meta charset="UTF-8" />
